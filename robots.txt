@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walid50dev.github.io/localdiff/sitemap.xml
